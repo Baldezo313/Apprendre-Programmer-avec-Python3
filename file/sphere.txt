@@ -1,0 +1,7 @@
+Diam.  46.20 cm Section  1676.39 cm^2 Surf.  6705.54 cm^2 Vol.  51632.67 cm^3
+Diam. 120.00 cm Section 11309.73 cm^2 Surf. 45238.93 cm^2 Vol. 904778.68 cm^3
+Diam.   0.03 cm Section     0.00 cm^2 Surf.     0.00 cm^2 Vol.      0.00 cm^3
+Diam.  13.90 cm Section   151.75 cm^2 Surf.   606.99 cm^2 Vol.   1406.19 cm^3
+Diam.  88.80 cm Section  6193.21 cm^2 Surf. 24772.84 cm^2 Vol. 366638.04 cm^3
+etc.
+
