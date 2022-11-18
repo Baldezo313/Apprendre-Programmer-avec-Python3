@@ -1,0 +1,2 @@
+call('Reviews', {'Updated': '2020-05-25 08:53:24.232', 'Submitted': None, 'Project': 'MN/5G/NB/gnb', 'Change': '2029522', 'Branch': 'master', 'Status': 'New', 'Insertions': '598', 'Deletions': '0', 'Author Name': 'Mudugodu Seetarama, Raghavendra', 'Author Site': 'Nokia - DE/Ulm', 'Votes+1': '2', 'Votes+2': '0', 'Votes-1': '0', 'Subject': '[5GC001868-B-06-CPNRT01] CellGroupDel in CellSetupFsm and cellDelete', 'Private': 'False', 'Directories': 'cplane uplane', 'Rebase': '2'}),
+
